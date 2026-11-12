@@ -1,0 +1,1199 @@
+{
+  "articles": [
+    {
+      "id": "2",
+      "title": "秋のイベント開催情報を公開",
+      "slug": "autumn-event-2026",
+      "summary": "秋のイベント開催情報を公開aに関する最新のお知らせです。詳細は記事本文をご確認ください。",
+      "content": "秋のイベント開催情報を公開a\n\n本記事では、関連する情報や今後の予定についてご案内します。\n\n詳細情報が決まり次第、順次お知らせいたします。",
+      "categoryCode": "figure",
+      "tagCodes": [
+        "event"
+      ],
+      "status": "published",
+      "author": "イベント担当",
+      "thumbnailUrl": "",
+      "publishAt": "2026/10/16 18:00:00",
+      "createdAt": "2026/10/15 18:00:00",
+      "updatedAt": "2026/11/6 17:06:09"
+    },
+    {
+      "id": "4",
+      "title": "年末キャンペーンの準備を開始",
+      "slug": "winter-campaign-draft",
+      "summary": "年末キャンペーンの準備を開始に関する最新のお知らせです。詳細は記事本文をご確認ください。",
+      "content": "年末キャンペーンの準備を開始\n\n本記事では、関連する情報や今後の予定についてご案内します。\n\n詳細情報が決まり次第、順次お知らせいたします。",
+      "categoryCode": "campaign",
+      "tagCodes": [
+        "campaign"
+      ],
+      "status": "draft",
+      "author": "広報担当",
+      "thumbnailUrl": "",
+      "publishAt": "",
+      "createdAt": "2026/10/15 18:00:00",
+      "updatedAt": "2026/10/28 18:00:00"
+    },
+    {
+      "id": "5",
+      "title": "公式サイトメンテナンスのお知らせ",
+      "slug": "site-maintenance",
+      "summary": "公式サイトメンテナンスのお知らせに関する最新のお知らせです。詳細は記事本文をご確認ください。",
+      "content": "公式サイトメンテナンスのお知らせ\n\n本記事では、関連する情報や今後の予定についてご案内します。\n\n詳細情報が決まり次第、順次お知らせいたします。",
+      "categoryCode": "notice",
+      "tagCodes": [
+        "important"
+      ],
+      "status": "published",
+      "author": "運営チーム",
+      "thumbnailUrl": "",
+      "publishAt": "2026/10/20 18:00:00",
+      "createdAt": "2026/10/15 18:00:00",
+      "updatedAt": "2026/10/28 18:00:00"
+    },
+    {
+      "id": "6",
+      "title": "新着記事の多言語展開について",
+      "slug": "multilang-articles",
+      "summary": "新着記事の多言語展開についてに関する最新のお知らせです。詳細は記事本文をご確認ください。",
+      "content": "新着記事の多言語展開について\n\n本記事では、関連する情報や今後の予定についてご案内します。\n\n詳細情報が決まり次第、順次お知らせいたします。",
+      "categoryCode": "notice",
+      "tagCodes": [
+        "new"
+      ],
+      "status": "draft",
+      "author": "編集部",
+      "thumbnailUrl": "",
+      "publishAt": "",
+      "createdAt": "2026/10/15 18:00:00",
+      "updatedAt": "2026/10/28 18:00:00"
+    },
+    {
+      "id": "7",
+      "title": "オンライン配信イベントの詳細",
+      "slug": "streaming-event",
+      "summary": "オンライン配信イベントの詳細に関する最新のお知らせです。詳細は記事本文をご確認ください。",
+      "content": "オンライン配信イベントの詳細\n\n本記事では、関連する情報や今後の予定についてご案内します。\n\n詳細情報が決まり次第、順次お知らせいたします。",
+      "categoryCode": "event",
+      "tagCodes": [
+        "event"
+      ],
+      "status": "review",
+      "author": "イベント担当",
+      "thumbnailUrl": "",
+      "publishAt": "2026/11/05 18:00:00",
+      "createdAt": "2026/10/15 18:00:00",
+      "updatedAt": "2026/11/06 15:56:03"
+    },
+    {
+      "id": "8",
+      "title": "限定グッズ第2弾の情報公開",
+      "slug": "limited-goods-2",
+      "summary": "限定グッズ第2弾の情報公開に関する最新のお知らせです。詳細は記事本文をご確認ください。",
+      "content": "限定グッズ第2弾の情報公開\n\n本記事では、関連する情報や今後の予定についてご案内します。\n\n詳細情報が決まり次第、順次お知らせいたします。",
+      "categoryCode": "product",
+      "tagCodes": [
+        "featured"
+      ],
+      "status": "published",
+      "author": "商品担当",
+      "thumbnailUrl": "",
+      "publishAt": "2026/10/25 18:00:00",
+      "createdAt": "2026/10/15 18:00:00",
+      "updatedAt": "2026/11/06 15:55:49"
+    },
+    {
+      "id": "8D_338Hfi24",
+      "title": "記事",
+      "slug": "autumn-event-2026",
+      "summary": "ｓｓｓ",
+      "content": "ｓｓｓｓ",
+      "categoryCode": "game",
+      "tagCodes": [
+        "event"
+      ],
+      "status": "review",
+      "author": "イベント担当",
+      "thumbnailUrl": "d",
+      "publishAt": "2026/11/13 00:00:00",
+      "createdAt": "2026/11/05 00:00:00",
+      "updatedAt": "2026/11/05 00:00:00"
+    },
+    {
+      "id": "AUMQr8Fgwa8",
+      "title": "タイトル",
+      "slug": "autumn-event-2026",
+      "summary": "ｓｓｓ",
+      "content": "ｓｓｓ",
+      "categoryCode": "figure",
+      "tagCodes": [
+        "event"
+      ],
+      "status": "review",
+      "author": "イベント担当",
+      "thumbnailUrl": "ddd",
+      "publishAt": "2026/11/05 00:00:00",
+      "createdAt": "2026/11/05 00:00:00",
+      "updatedAt": "2026/11/05 18:28:22"
+    },
+    {
+      "id": "9",
+      "title": "冬季限定商品の予約受付を開始",
+      "slug": "winter-preorder",
+      "summary": "冬季限定商品の予約受付を開始について、最新の情報をお届けします。",
+      "content": "冬季限定商品の予約受付を開始\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "product",
+      "tagCodes": [
+        "new",
+        "featured"
+      ],
+      "status": "published",
+      "author": "商品担当",
+      "thumbnailUrl": "",
+      "publishAt": "2026/09/02 12:00:00",
+      "createdAt": "2026/09/01 10:00:00",
+      "updatedAt": "2026/09/01 10:00:00"
+    },
+    {
+      "id": "10",
+      "title": "11月のファンミーティング開催決定",
+      "slug": "november-fanmeeting",
+      "summary": "11月のファンミーティング開催決定について、最新の情報をお届けします。",
+      "content": "11月のファンミーティング開催決定\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "event",
+      "tagCodes": [
+        "event",
+        "featured"
+      ],
+      "status": "published",
+      "author": "イベント担当",
+      "thumbnailUrl": "",
+      "publishAt": "2026/09/04 15:07:00",
+      "createdAt": "2026/09/03 13:07:00",
+      "updatedAt": "2026/09/04 14:08:00"
+    },
+    {
+      "id": "11",
+      "title": "ゲームアップデートVer.2.1のお知らせ",
+      "slug": "game-update-2-1",
+      "summary": "ゲームアップデートVer.2.1のお知らせについて、最新の情報をお届けします。",
+      "content": "ゲームアップデートVer.2.1のお知らせ\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "game",
+      "tagCodes": [
+        "update"
+      ],
+      "status": "published",
+      "author": "開発チーム",
+      "thumbnailUrl": "",
+      "publishAt": "2026/09/06 18:14:00",
+      "createdAt": "2026/09/05 16:14:00",
+      "updatedAt": "2026/09/07 18:16:00"
+    },
+    {
+      "id": "12",
+      "title": "新作フィギュアの彩色見本を公開",
+      "slug": "new-figure-preview",
+      "summary": "新作フィギュアの彩色見本を公開について、最新の情報をお届けします。",
+      "content": "新作フィギュアの彩色見本を公開\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "figure",
+      "tagCodes": [
+        "new",
+        "featured"
+      ],
+      "status": "review",
+      "author": "商品担当",
+      "thumbnailUrl": "",
+      "publishAt": "2026/09/17 13:21:00",
+      "createdAt": "2026/09/07 10:21:00",
+      "updatedAt": "2026/09/10 13:24:00"
+    },
+    {
+      "id": "13",
+      "title": "公式SNSフォローキャンペーン",
+      "slug": "sns-follow-campaign",
+      "summary": "公式SNSフォローキャンペーンについて、最新の情報をお届けします。",
+      "content": "公式SNSフォローキャンペーン\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "campaign",
+      "tagCodes": [
+        "campaign",
+        "sns"
+      ],
+      "status": "published",
+      "author": "広報担当",
+      "thumbnailUrl": "",
+      "publishAt": "2026/09/10 15:28:00",
+      "createdAt": "2026/09/09 13:28:00",
+      "updatedAt": "2026/09/09 17:32:00"
+    },
+    {
+      "id": "14",
+      "title": "サーバーメンテナンス実施予定",
+      "slug": "server-maintenance-nov",
+      "summary": "サーバーメンテナンス実施予定について、最新の情報をお届けします。",
+      "content": "サーバーメンテナンス実施予定\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "notice",
+      "tagCodes": [
+        "important",
+        "maintenance"
+      ],
+      "status": "published",
+      "author": "運営チーム",
+      "thumbnailUrl": "",
+      "publishAt": "2026/09/12 18:35:00",
+      "createdAt": "2026/09/11 16:35:00",
+      "updatedAt": "2026/09/12 21:40:00"
+    },
+    {
+      "id": "15",
+      "title": "開発者インタビュー第1回",
+      "slug": "developer-interview-01",
+      "summary": "開発者インタビュー第1回について、最新の情報をお届けします。",
+      "content": "開発者インタビュー第1回\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "interview",
+      "tagCodes": [
+        "interview"
+      ],
+      "status": "published",
+      "author": "編集部",
+      "thumbnailUrl": "",
+      "publishAt": "2026/09/14 12:42:00",
+      "createdAt": "2026/09/13 10:42:00",
+      "updatedAt": "2026/09/15 10:48:00"
+    },
+    {
+      "id": "16",
+      "title": "東京ポップアップストア開催",
+      "slug": "tokyo-popup-store",
+      "summary": "東京ポップアップストア開催について、最新の情報をお届けします。",
+      "content": "東京ポップアップストア開催\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "event",
+      "tagCodes": [
+        "event",
+        "limited"
+      ],
+      "status": "published",
+      "author": "イベント担当",
+      "thumbnailUrl": "",
+      "publishAt": "2026/09/16 15:49:00",
+      "createdAt": "2026/09/15 13:49:00",
+      "updatedAt": "2026/09/18 14:56:00"
+    },
+    {
+      "id": "17",
+      "title": "新規会員登録特典のご案内",
+      "slug": "member-registration-benefit",
+      "summary": "新規会員登録特典のご案内について、最新の情報をお届けします。",
+      "content": "新規会員登録特典のご案内\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "campaign",
+      "tagCodes": [
+        "campaign"
+      ],
+      "status": "draft",
+      "author": "広報担当",
+      "thumbnailUrl": "",
+      "publishAt": "",
+      "createdAt": "2026/09/17 16:56:00",
+      "updatedAt": "2026/09/17 19:04:00"
+    },
+    {
+      "id": "18",
+      "title": "アプリ新機能の先行紹介",
+      "slug": "app-new-features",
+      "summary": "アプリ新機能の先行紹介について、最新の情報をお届けします。",
+      "content": "アプリ新機能の先行紹介\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "game",
+      "tagCodes": [
+        "update",
+        "new"
+      ],
+      "status": "review",
+      "author": "開発チーム",
+      "thumbnailUrl": "",
+      "publishAt": "2026/09/29 13:03:00",
+      "createdAt": "2026/09/19 10:03:00",
+      "updatedAt": "2026/09/20 13:12:00"
+    },
+    {
+      "id": "19",
+      "title": "限定アクリルスタンド発売",
+      "slug": "acrylic-stand-release",
+      "summary": "限定アクリルスタンド発売について、最新の情報をお届けします。",
+      "content": "限定アクリルスタンド発売\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "product",
+      "tagCodes": [
+        "limited"
+      ],
+      "status": "published",
+      "author": "商品担当",
+      "thumbnailUrl": "",
+      "publishAt": "2026/09/22 15:10:00",
+      "createdAt": "2026/09/21 13:10:00",
+      "updatedAt": "2026/09/23 17:20:00"
+    },
+    {
+      "id": "20",
+      "title": "12月イベントの出演者情報",
+      "slug": "december-event-guests",
+      "summary": "12月イベントの出演者情報について、最新の情報をお届けします。",
+      "content": "12月イベントの出演者情報\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "event",
+      "tagCodes": [
+        "event"
+      ],
+      "status": "review",
+      "author": "イベント担当",
+      "thumbnailUrl": "",
+      "publishAt": "2026/10/03 19:17:00",
+      "createdAt": "2026/09/23 16:17:00",
+      "updatedAt": "2026/09/26 21:28:00"
+    },
+    {
+      "id": "21",
+      "title": "よくあるご質問を更新しました",
+      "slug": "faq-update",
+      "summary": "よくあるご質問を更新しましたについて、最新の情報をお届けします。",
+      "content": "よくあるご質問を更新しました\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "notice",
+      "tagCodes": [
+        "update"
+      ],
+      "status": "published",
+      "author": "サポート担当",
+      "thumbnailUrl": "",
+      "publishAt": "2026/09/26 12:24:00",
+      "createdAt": "2026/09/25 10:24:00",
+      "updatedAt": "2026/09/25 10:36:00"
+    },
+    {
+      "id": "22",
+      "title": "公式コラム：制作の舞台裏",
+      "slug": "behind-the-scenes",
+      "summary": "公式コラム：制作の舞台裏について、最新の情報をお届けします。",
+      "content": "公式コラム：制作の舞台裏\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "column",
+      "tagCodes": [
+        "column"
+      ],
+      "status": "published",
+      "author": "編集部",
+      "thumbnailUrl": "",
+      "publishAt": "2026/09/28 15:31:00",
+      "createdAt": "2026/09/27 13:31:00",
+      "updatedAt": "2026/09/28 14:44:00"
+    },
+    {
+      "id": "23",
+      "title": "冬休みプレゼント企画",
+      "slug": "winter-giveaway",
+      "summary": "冬休みプレゼント企画について、最新の情報をお届けします。",
+      "content": "冬休みプレゼント企画\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "campaign",
+      "tagCodes": [
+        "campaign",
+        "limited"
+      ],
+      "status": "draft",
+      "author": "広報担当",
+      "thumbnailUrl": "",
+      "publishAt": "",
+      "createdAt": "2026/09/29 16:38:00",
+      "updatedAt": "2026/10/01 18:52:00"
+    },
+    {
+      "id": "24",
+      "title": "新作グッズの販売スケジュール",
+      "slug": "goods-sales-schedule",
+      "summary": "新作グッズの販売スケジュールについて、最新の情報をお届けします。",
+      "content": "新作グッズの販売スケジュール\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "product",
+      "tagCodes": [
+        "new"
+      ],
+      "status": "published",
+      "author": "商品担当",
+      "thumbnailUrl": "",
+      "publishAt": "2026/10/02 12:45:00",
+      "createdAt": "2026/10/01 10:45:00",
+      "updatedAt": "2026/10/04 14:00:00"
+    },
+    {
+      "id": "25",
+      "title": "オンラインストア配送遅延のお知らせ",
+      "slug": "shipping-delay",
+      "summary": "オンラインストア配送遅延のお知らせについて、最新の情報をお届けします。",
+      "content": "オンラインストア配送遅延のお知らせ\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "notice",
+      "tagCodes": [
+        "important"
+      ],
+      "status": "published",
+      "author": "運営チーム",
+      "thumbnailUrl": "",
+      "publishAt": "2026/10/04 15:52:00",
+      "createdAt": "2026/10/03 13:52:00",
+      "updatedAt": "2026/10/03 18:08:00"
+    },
+    {
+      "id": "26",
+      "title": "コミュニティ投稿企画スタート",
+      "slug": "community-post-event",
+      "summary": "コミュニティ投稿企画スタートについて、最新の情報をお届けします。",
+      "content": "コミュニティ投稿企画スタート\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "community",
+      "tagCodes": [
+        "sns",
+        "event"
+      ],
+      "status": "published",
+      "author": "コミュニティ担当",
+      "thumbnailUrl": "",
+      "publishAt": "2026/10/06 18:59:00",
+      "createdAt": "2026/10/05 16:59:00",
+      "updatedAt": "2026/10/06 22:16:00"
+    },
+    {
+      "id": "27",
+      "title": "フィギュア展示会レポート",
+      "slug": "figure-exhibition-report",
+      "summary": "フィギュア展示会レポートについて、最新の情報をお届けします。",
+      "content": "フィギュア展示会レポート\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "figure",
+      "tagCodes": [
+        "event",
+        "featured"
+      ],
+      "status": "published",
+      "author": "編集部",
+      "thumbnailUrl": "",
+      "publishAt": "2026/10/08 12:06:00",
+      "createdAt": "2026/10/07 10:06:00",
+      "updatedAt": "2026/10/09 10:24:00"
+    },
+    {
+      "id": "28",
+      "title": "ゲーム内イベント攻略ガイド",
+      "slug": "in-game-event-guide",
+      "summary": "ゲーム内イベント攻略ガイドについて、最新の情報をお届けします。",
+      "content": "ゲーム内イベント攻略ガイド\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "game",
+      "tagCodes": [
+        "event",
+        "guide"
+      ],
+      "status": "published",
+      "author": "攻略チーム",
+      "thumbnailUrl": "",
+      "publishAt": "2026/10/10 15:13:00",
+      "createdAt": "2026/10/09 13:13:00",
+      "updatedAt": "2026/10/12 14:32:00"
+    },
+    {
+      "id": "29",
+      "title": "新年キャンペーン企画案",
+      "slug": "new-year-campaign",
+      "summary": "新年キャンペーン企画案について、最新の情報をお届けします。",
+      "content": "新年キャンペーン企画案\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "campaign",
+      "tagCodes": [
+        "campaign"
+      ],
+      "status": "draft",
+      "author": "広報担当",
+      "thumbnailUrl": "",
+      "publishAt": "",
+      "createdAt": "2026/10/11 16:20:00",
+      "updatedAt": "2026/10/11 18:40:00"
+    },
+    {
+      "id": "30",
+      "title": "ライブ配信アーカイブ公開",
+      "slug": "live-archive",
+      "summary": "ライブ配信アーカイブ公開について、最新の情報をお届けします。",
+      "content": "ライブ配信アーカイブ公開\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "event",
+      "tagCodes": [
+        "event",
+        "video"
+      ],
+      "status": "published",
+      "author": "イベント担当",
+      "thumbnailUrl": "",
+      "publishAt": "2026/10/14 12:27:00",
+      "createdAt": "2026/10/13 10:27:00",
+      "updatedAt": "2026/10/14 13:48:00"
+    },
+    {
+      "id": "31",
+      "title": "デザイン資料公開のお知らせ",
+      "slug": "design-materials",
+      "summary": "デザイン資料公開のお知らせについて、最新の情報をお届けします。",
+      "content": "デザイン資料公開のお知らせ\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "column",
+      "tagCodes": [
+        "column"
+      ],
+      "status": "review",
+      "author": "編集部",
+      "thumbnailUrl": "",
+      "publishAt": "2026/10/25 16:34:00",
+      "createdAt": "2026/10/15 13:34:00",
+      "updatedAt": "2026/10/17 17:56:00"
+    },
+    {
+      "id": "32",
+      "title": "サービス利用規約改定のご案内",
+      "slug": "terms-update",
+      "summary": "サービス利用規約改定のご案内について、最新の情報をお届けします。",
+      "content": "サービス利用規約改定のご案内\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "notice",
+      "tagCodes": [
+        "important"
+      ],
+      "status": "published",
+      "author": "運営チーム",
+      "thumbnailUrl": "",
+      "publishAt": "2026/10/18 18:41:00",
+      "createdAt": "2026/10/17 16:41:00",
+      "updatedAt": "2026/10/20 22:04:00"
+    },
+    {
+      "id": "33",
+      "title": "予約商品の発送開始について",
+      "slug": "preorder-shipping",
+      "summary": "予約商品の発送開始についてについて、最新の情報をお届けします。",
+      "content": "予約商品の発送開始について\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "product",
+      "tagCodes": [
+        "update"
+      ],
+      "status": "published",
+      "author": "商品担当",
+      "thumbnailUrl": "",
+      "publishAt": "2026/10/20 12:48:00",
+      "createdAt": "2026/10/19 10:48:00",
+      "updatedAt": "2026/10/19 11:12:00"
+    },
+    {
+      "id": "34",
+      "title": "ユーザーアンケート実施のお知らせ",
+      "slug": "user-survey",
+      "summary": "ユーザーアンケート実施のお知らせについて、最新の情報をお届けします。",
+      "content": "ユーザーアンケート実施のお知らせ\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "community",
+      "tagCodes": [
+        "survey"
+      ],
+      "status": "published",
+      "author": "運営チーム",
+      "thumbnailUrl": "",
+      "publishAt": "2026/10/22 15:55:00",
+      "createdAt": "2026/10/21 13:55:00",
+      "updatedAt": "2026/10/22 15:20:00"
+    },
+    {
+      "id": "35",
+      "title": "舞台イベントのチケット情報",
+      "slug": "stage-event-tickets",
+      "summary": "舞台イベントのチケット情報について、最新の情報をお届けします。",
+      "content": "舞台イベントのチケット情報\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "event",
+      "tagCodes": [
+        "event",
+        "ticket"
+      ],
+      "status": "review",
+      "author": "イベント担当",
+      "thumbnailUrl": "",
+      "publishAt": "2026/11/02 19:02:00",
+      "createdAt": "2026/10/23 16:02:00",
+      "updatedAt": "2026/10/25 18:28:00"
+    },
+    {
+      "id": "36",
+      "title": "週末限定セール開催",
+      "slug": "weekend-sale",
+      "summary": "週末限定セール開催について、最新の情報をお届けします。",
+      "content": "週末限定セール開催\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "campaign",
+      "tagCodes": [
+        "campaign",
+        "limited"
+      ],
+      "status": "published",
+      "author": "広報担当",
+      "thumbnailUrl": "",
+      "publishAt": "2026/10/26 12:09:00",
+      "createdAt": "2026/10/25 10:09:00",
+      "updatedAt": "2026/10/28 13:36:00"
+    },
+    {
+      "id": "37",
+      "title": "新キャラクター紹介",
+      "slug": "new-character",
+      "summary": "新キャラクター紹介について、最新の情報をお届けします。",
+      "content": "新キャラクター紹介\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "game",
+      "tagCodes": [
+        "new",
+        "featured"
+      ],
+      "status": "published",
+      "author": "編集部",
+      "thumbnailUrl": "",
+      "publishAt": "2026/10/28 15:16:00",
+      "createdAt": "2026/10/27 13:16:00",
+      "updatedAt": "2026/10/27 17:44:00"
+    },
+    {
+      "id": "38",
+      "title": "2026年の振り返り特集",
+      "slug": "year-in-review-2026",
+      "summary": "2026年の振り返り特集について、最新の情報をお届けします。",
+      "content": "2026年の振り返り特集\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "column",
+      "tagCodes": [
+        "column",
+        "featured"
+      ],
+      "status": "draft",
+      "author": "編集部",
+      "thumbnailUrl": "",
+      "publishAt": "",
+      "createdAt": "2026/10/29 16:23:00",
+      "updatedAt": "2026/10/30 21:52:00"
+    },
+    {
+      "id": "39",
+      "title": "店舗別購入特典一覧",
+      "slug": "store-bonuses",
+      "summary": "店舗別購入特典一覧について、最新の情報をお届けします。",
+      "content": "店舗別購入特典一覧\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "product",
+      "tagCodes": [
+        "limited",
+        "guide"
+      ],
+      "status": "published",
+      "author": "商品担当",
+      "thumbnailUrl": "",
+      "publishAt": "2026/11/01 12:30:00",
+      "createdAt": "2026/10/31 10:30:00",
+      "updatedAt": "2026/11/02 11:00:00"
+    },
+    {
+      "id": "40",
+      "title": "冬季アップデートの事前告知",
+      "slug": "winter-update-preview",
+      "summary": "冬季アップデートの事前告知について、最新の情報をお届けします。",
+      "content": "冬季アップデートの事前告知\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "game",
+      "tagCodes": [
+        "update"
+      ],
+      "status": "review",
+      "author": "開発チーム",
+      "thumbnailUrl": "",
+      "publishAt": "2026/11/12 16:37:00",
+      "createdAt": "2026/11/02 13:37:00",
+      "updatedAt": "2026/11/05 15:08:00"
+    },
+    {
+      "id": "41",
+      "title": "オフライン交流会の参加募集",
+      "slug": "offline-meetup",
+      "summary": "オフライン交流会の参加募集について、最新の情報をお届けします。",
+      "content": "オフライン交流会の参加募集\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "community",
+      "tagCodes": [
+        "event"
+      ],
+      "status": "draft",
+      "author": "コミュニティ担当",
+      "thumbnailUrl": "",
+      "publishAt": "",
+      "createdAt": "2026/11/04 16:44:00",
+      "updatedAt": "2026/11/04 19:16:00"
+    },
+    {
+      "id": "42",
+      "title": "イベント会場へのアクセス案内",
+      "slug": "venue-access",
+      "summary": "イベント会場へのアクセス案内について、最新の情報をお届けします。",
+      "content": "イベント会場へのアクセス案内\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "event",
+      "tagCodes": [
+        "event",
+        "guide"
+      ],
+      "status": "published",
+      "author": "イベント担当",
+      "thumbnailUrl": "",
+      "publishAt": "2026/11/07 12:51:00",
+      "createdAt": "2026/11/06 10:51:00",
+      "updatedAt": "2026/11/07 14:24:00"
+    },
+    {
+      "id": "43",
+      "title": "新商品ラインナップ追加のお知らせ",
+      "slug": "new-product-lineup",
+      "summary": "新商品ラインナップ追加のお知らせについて、最新の情報をお届けします。",
+      "content": "新商品ラインナップ追加のお知らせ\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "product",
+      "tagCodes": [
+        "new"
+      ],
+      "status": "published",
+      "author": "商品担当",
+      "thumbnailUrl": "",
+      "publishAt": "2026/11/09 15:58:00",
+      "createdAt": "2026/11/08 13:58:00",
+      "updatedAt": "2026/11/10 18:32:00"
+    },
+    {
+      "id": "44",
+      "title": "年末年始のサポート窓口営業時間",
+      "slug": "holiday-support-hours",
+      "summary": "年末年始のサポート窓口営業時間について、最新の情報をお届けします。",
+      "content": "年末年始のサポート窓口営業時間\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "notice",
+      "tagCodes": [
+        "important"
+      ],
+      "status": "draft",
+      "author": "サポート担当",
+      "thumbnailUrl": "",
+      "publishAt": "",
+      "createdAt": "2026/11/10 16:05:00",
+      "updatedAt": "2026/11/13 21:40:00"
+    },
+    {
+      "id": "45",
+      "title": "連載コラム第2回を公開",
+      "slug": "column-02",
+      "summary": "連載コラム第2回を公開について、最新の情報をお届けします。",
+      "content": "連載コラム第2回を公開\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "column",
+      "tagCodes": [
+        "column"
+      ],
+      "status": "review",
+      "author": "編集部",
+      "thumbnailUrl": "",
+      "publishAt": "2026/11/22 13:12:00",
+      "createdAt": "2026/11/12 10:12:00",
+      "updatedAt": "2026/11/12 10:48:00"
+    },
+    {
+      "id": "46",
+      "title": "人気投票結果発表",
+      "slug": "popularity-poll-results",
+      "summary": "人気投票結果発表について、最新の情報をお届けします。",
+      "content": "人気投票結果発表\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "community",
+      "tagCodes": [
+        "survey",
+        "featured"
+      ],
+      "status": "published",
+      "author": "コミュニティ担当",
+      "thumbnailUrl": "",
+      "publishAt": "2026/11/15 15:19:00",
+      "createdAt": "2026/11/14 13:19:00",
+      "updatedAt": "2026/11/15 14:56:00"
+    },
+    {
+      "id": "47",
+      "title": "公式動画チャンネル更新",
+      "slug": "official-video-update",
+      "summary": "公式動画チャンネル更新について、最新の情報をお届けします。",
+      "content": "公式動画チャンネル更新\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "media",
+      "tagCodes": [
+        "video",
+        "new"
+      ],
+      "status": "published",
+      "author": "編集部",
+      "thumbnailUrl": "",
+      "publishAt": "2026/11/17 18:26:00",
+      "createdAt": "2026/11/16 16:26:00",
+      "updatedAt": "2026/11/18 19:04:00"
+    },
+    {
+      "id": "48",
+      "title": "イベント写真ギャラリー公開",
+      "slug": "event-photo-gallery",
+      "summary": "イベント写真ギャラリー公開について、最新の情報をお届けします。",
+      "content": "イベント写真ギャラリー公開\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "media",
+      "tagCodes": [
+        "event",
+        "photo"
+      ],
+      "status": "published",
+      "author": "編集部",
+      "thumbnailUrl": "",
+      "publishAt": "2026/11/19 12:33:00",
+      "createdAt": "2026/11/18 10:33:00",
+      "updatedAt": "2026/11/21 14:12:00"
+    },
+    {
+      "id": "49",
+      "title": "今後の開発ロードマップについて",
+      "slug": "development-roadmap",
+      "summary": "今後の開発ロードマップについてについて、最新の情報をお届けします。",
+      "content": "今後の開発ロードマップについて\n\n公式サイトをご覧いただきありがとうございます。\n\n最新情報や詳細については、こちらの記事で順次ご案内いたします。",
+      "categoryCode": "game",
+      "tagCodes": [
+        "update"
+      ],
+      "status": "draft",
+      "author": "開発チーム",
+      "thumbnailUrl": "",
+      "publishAt": "",
+      "createdAt": "2026/11/20 13:40:00",
+      "updatedAt": "2026/11/20 18:20:00"
+    },
+    {
+      "id": "TUSF9xBsdA4",
+      "title": "タイトル",
+      "slug": "autumn-event-2026",
+      "summary": "概要",
+      "content": "テキスト",
+      "categoryCode": "notice",
+      "tagCodes": [
+        "update",
+        "new"
+      ],
+      "status": "draft",
+      "publishAt": "2026-11-19",
+      "author": "イベント担当",
+      "thumbnailUrl": "https://picsum.photos/id/160/800/500",
+      "createdAt": "2026/11/11",
+      "updatedAt": "2026/11/11 14:04:10"
+    }
+  ],
+  "categories": [
+    {
+      "id": "2",
+      "name": "商品情報",
+      "code": "product",
+      "updatedAt": "2026/11/06"
+    },
+    {
+      "id": "3",
+      "name": "イベント",
+      "code": "event",
+      "updatedAt": "2026/11/06"
+    },
+    {
+      "id": "5",
+      "name": "キャンペーン",
+      "code": "campaign",
+      "updatedAt": "2026/11/06"
+    },
+    {
+      "id": "A2RSfC_KMXk",
+      "name": "イベン",
+      "code": "event",
+      "updatedAt": "2026/11/06"
+    },
+    {
+      "id": "7",
+      "name": "お知らせ",
+      "code": "notice",
+      "updatedAt": "2026/11/06"
+    },
+    {
+      "id": "8",
+      "name": "フィギュア",
+      "code": "figure",
+      "updatedAt": "2026/11/06"
+    },
+    {
+      "id": "9",
+      "name": "ゲーム",
+      "code": "game",
+      "updatedAt": "2026/11/06"
+    },
+    {
+      "id": "10",
+      "name": "インタビュー",
+      "code": "interview",
+      "updatedAt": "2026/11/06"
+    },
+    {
+      "id": "11",
+      "name": "コラム",
+      "code": "column",
+      "updatedAt": "2026/11/06"
+    },
+    {
+      "id": "12",
+      "name": "コミュニティ",
+      "code": "community",
+      "updatedAt": "2026/11/06"
+    },
+    {
+      "id": "13",
+      "name": "メディア",
+      "code": "media",
+      "updatedAt": "2026/11/06"
+    },
+    {
+      "id": "14",
+      "name": "ニュース",
+      "code": "news",
+      "updatedAt": "2026/11/06"
+    },
+    {
+      "id": "wIKLM6Z6aXw",
+      "name": "カテゴリ新規",
+      "code": "FG-003",
+      "createdAt": "2026/11/11"
+    }
+  ],
+  "tags": [
+    {
+      "id": "2",
+      "name": "注目",
+      "code": "featured",
+      "updatedAt": "2026/11/06"
+    },
+    {
+      "id": "3",
+      "name": "重要",
+      "code": "important",
+      "updatedAt": "2026/11/06"
+    },
+    {
+      "id": "4",
+      "name": "イベント",
+      "code": "event",
+      "updatedAt": "2026/11/06"
+    },
+    {
+      "id": "5",
+      "name": "キャンペーン",
+      "code": "campaign",
+      "updatedAt": "2026/11/06"
+    },
+    {
+      "id": "6",
+      "name": "新着",
+      "code": "new",
+      "updatedAt": "2026/11/06"
+    },
+    {
+      "id": "7",
+      "name": "アップデート",
+      "code": "update",
+      "updatedAt": "2026/11/06"
+    },
+    {
+      "id": "8",
+      "name": "SNS",
+      "code": "sns",
+      "updatedAt": "2026/11/06"
+    },
+    {
+      "id": "9",
+      "name": "メンテナンス",
+      "code": "maintenance",
+      "updatedAt": "2026/11/06"
+    },
+    {
+      "id": "10",
+      "name": "インタビュー",
+      "code": "interview",
+      "updatedAt": "2026/11/06"
+    },
+    {
+      "id": "11",
+      "name": "限定",
+      "code": "limited",
+      "updatedAt": "2026/11/06"
+    },
+    {
+      "id": "12",
+      "name": "コラム",
+      "code": "column",
+      "updatedAt": "2026/11/06"
+    },
+    {
+      "id": "13",
+      "name": "攻略",
+      "code": "guide",
+      "updatedAt": "2026/11/06"
+    },
+    {
+      "id": "14",
+      "name": "動画",
+      "code": "video",
+      "updatedAt": "2026/11/06"
+    },
+    {
+      "id": "15",
+      "name": "アンケート",
+      "code": "survey",
+      "updatedAt": "2026/11/06"
+    },
+    {
+      "id": "16",
+      "name": "チケット",
+      "code": "ticket",
+      "updatedAt": "2026/11/06"
+    },
+    {
+      "id": "17",
+      "name": "写真",
+      "code": "photo",
+      "updatedAt": "2026/11/06"
+    },
+    {
+      "id": "18",
+      "name": "おすすめ",
+      "code": "recommend",
+      "updatedAt": "2026/11/06"
+    }
+  ],
+  "media": [
+    {
+      "id": "2",
+      "fileName": "thumbnail.jpg",
+      "url": "https://picsum.photos/id/20/800/500",
+      "mimeType": "image/jpeg",
+      "size": 180320,
+      "createdAt": "2026-11-08"
+    },
+    {
+      "id": "3",
+      "fileName": "article-image.jpg",
+      "url": "https://picsum.photos/id/30/800/500",
+      "mimeType": "image/jpeg",
+      "size": 312000,
+      "createdAt": "2026-11-07"
+    },
+    {
+      "id": "4",
+      "fileName": "nature-landscape.jpg",
+      "url": "https://picsum.photos/id/40/800/500",
+      "mimeType": "image/jpeg",
+      "size": 198400,
+      "createdAt": "2026-11-06"
+    },
+    {
+      "id": "5",
+      "fileName": "city-view.jpg",
+      "url": "https://picsum.photos/id/50/800/500",
+      "mimeType": "image/jpeg",
+      "size": 267800,
+      "createdAt": "2026-11-05"
+    },
+    {
+      "id": "6",
+      "fileName": "main-visual.jpg",
+      "url": "https://picsum.photos/id/60/800/500",
+      "mimeType": "image/jpeg",
+      "size": 234500,
+      "createdAt": "2026-11-04"
+    },
+    {
+      "id": "7",
+      "fileName": "product-banner.jpg",
+      "url": "https://picsum.photos/id/70/800/500",
+      "mimeType": "image/jpeg",
+      "size": 289600,
+      "createdAt": "2026-11-03"
+    },
+    {
+      "id": "8",
+      "fileName": "event-thumbnail.jpg",
+      "url": "https://picsum.photos/id/80/800/500",
+      "mimeType": "image/jpeg",
+      "size": 175300,
+      "createdAt": "2026-11-02"
+    },
+    {
+      "id": "9",
+      "fileName": "news-image.jpg",
+      "url": "https://picsum.photos/id/90/800/500",
+      "mimeType": "image/jpeg",
+      "size": 320400,
+      "createdAt": "2026-11-01"
+    },
+    {
+      "id": "10",
+      "fileName": "feature-image.jpg",
+      "url": "https://picsum.photos/id/100/800/500",
+      "mimeType": "image/jpeg",
+      "size": 256700,
+      "createdAt": "2026-10-31"
+    },
+    {
+      "id": "11",
+      "fileName": "travel-photo.jpg",
+      "url": "https://picsum.photos/id/110/800/500",
+      "mimeType": "image/jpeg",
+      "size": 201500,
+      "createdAt": "2026-10-30"
+    },
+    {
+      "id": "12",
+      "fileName": "gallery-image.jpg",
+      "url": "https://picsum.photos/id/120/800/500",
+      "mimeType": "image/jpeg",
+      "size": 298200,
+      "createdAt": "2026-10-29"
+    },
+    {
+      "id": "13",
+      "fileName": "campaign-banner.jpg",
+      "url": "https://picsum.photos/id/130/800/500",
+      "mimeType": "image/jpeg",
+      "size": 274100,
+      "createdAt": "2026-10-28"
+    },
+    {
+      "id": "14",
+      "fileName": "blog-thumbnail.jpg",
+      "url": "https://picsum.photos/id/140/800/500",
+      "mimeType": "image/jpeg",
+      "size": 189500,
+      "createdAt": "2026-10-27"
+    },
+    {
+      "id": "16",
+      "fileName": "seasonal-banner.jpg",
+      "url": "https://picsum.photos/id/160/800/500",
+      "mimeType": "image/jpeg",
+      "size": 228400,
+      "createdAt": "2026-10-25"
+    },
+    {
+      "id": "17",
+      "fileName": "interview-photo.jpg",
+      "url": "https://picsum.photos/id/170/800/500",
+      "mimeType": "image/jpeg",
+      "size": 195800,
+      "createdAt": "2026-10-24"
+    },
+    {
+      "id": "18",
+      "fileName": "article-cover.jpg",
+      "url": "https://picsum.photos/id/180/800/500",
+      "mimeType": "image/jpeg",
+      "size": 283700,
+      "createdAt": "2026-10-23"
+    },
+    {
+      "id": "19",
+      "fileName": "special-feature.jpg",
+      "url": "https://picsum.photos/id/190/800/500",
+      "mimeType": "image/jpeg",
+      "size": 247900,
+      "createdAt": "2026-10-22"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
