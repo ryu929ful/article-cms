@@ -58,7 +58,7 @@ const ArticleCreate = ({editId,editFormValues}:Props) => {
             createdAt:new Date().toLocaleDateString("ja-JP"),
             updatedAt:new Date().toLocaleString("ja-JP")
         }
-        const url = isEditId ? `http://localhost:2003/articles/${editId}` : "http://localhost:2003/articles"
+        const url = isEditId ? `https://news-studio-api.onrender.com/articles/${editId}` : "https://news-studio-api.onrender.com/articles"
 
         try{
             setLoad(true)

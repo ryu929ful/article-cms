@@ -25,7 +25,7 @@ const ArticleList = () => {
         const ok = window.confirm("商品を削除してもいいですか？")
         if(ok){
             try{
-                const response = await fetch(`http://localhost:2003/articles/${id}`,{
+                const response = await fetch(`https://news-studio-api.onrender.com/categories/${id}`,{
                     method:"DELETE"
                 })
                 await new Promise((resolve) => setTimeout(resolve,500))

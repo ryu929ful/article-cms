@@ -42,7 +42,7 @@ const ArticleTagList = () => {
         if(ok){
             try{
                 setLoad(true)
-                const response = await fetch(`http://localhost:2003/tags/${id}`,{
+                const response = await fetch(`https://news-studio-api.onrender.com/tags/${id}`,{
                     method:"DELETE"
                 })
                 new Promise((resolve) => setTimeout(resolve,500))
@@ -82,8 +82,8 @@ const ArticleTagList = () => {
     })
     const onSubmit = async (data:TagFormValues) => {
         const url = isEditId ? 
-        `http://localhost:2003/tags/${editId}`
-        :"http://localhost:2003/tags"
+        `https://news-studio-api.onrender.com/tags/${editId}`
+        :"https://news-studio-api.onrender.com/tags"
         const body = isEditId ? {
             ...data,
             updatedAt:new Date().toLocaleDateString("ja-JP")

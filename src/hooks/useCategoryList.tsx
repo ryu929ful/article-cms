@@ -12,7 +12,7 @@ const useCategoryList = () => {
                     setC_load(true)
                 }
                 console.log("カテゴリリスト取得")
-                const response = await fetch("http://localhost:2003/categories")
+                const response = await fetch("https://news-studio-api.onrender.com/categories")
                 await new Promise((resolve) => setTimeout(resolve,2000))
                 if(!response.ok){
                     throw new Error("カテゴリリストの読み込みに失敗しました")

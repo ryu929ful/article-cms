@@ -3,7 +3,7 @@ import { Media } from "@/src/types/MediaTypes"
 type CreateMediaInput = Omit<Media,"id">
 
 const CreateMedia = async (media:CreateMediaInput):Promise<Media> => {
-    const response = await fetch("http://localhost:2003/media",{
+    const response = await fetch("https://news-studio-api.onrender.com/media",{
         method:"POST",
         headers:{
             "Content-Type":"application/json"

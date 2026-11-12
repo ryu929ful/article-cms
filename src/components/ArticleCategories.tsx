@@ -36,7 +36,7 @@ const ArticleCategories = () => {
         if(ok){
             try{
                 setLoad(true)
-                const response = await fetch(`http://localhost:2003/categories/${id}`,{
+                const response = await fetch(`https://news-studio-api.onrender.com/categories/${id}`,{
                     method:"DELETE",
                 })
                 await new Promise((resolve) => setTimeout(resolve,500));
@@ -82,8 +82,8 @@ const ArticleCategories = () => {
     const onSubmit = async (data:CategoryFormValues) => {
         const isEditId = editId != null
         const url = isEditId ? 
-        `http://localhost:2003/categories/${editId}`:
-        "http://localhost:2003/categories"
+        `https://news-studio-api.onrender.com/categories/${editId}`:
+        "https://news-studio-api.onrender.com/categories"
         const body = isEditId ? {
             ...data,
             updatedAt:new Date().toLocaleDateString("ja-JP")

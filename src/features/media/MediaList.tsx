@@ -33,7 +33,7 @@ const MediaList = () => {
         if(ok)
         try{
             setLoad(true)
-            const response = await fetch(`http://localhost:2003/media/${id}`,{
+            const response = await fetch(`https://news-studio-api.onrender.com/media/${id}`,{
                 method:"DELETE"
             })
             await new Promise((resolve) => setTimeout(resolve,500))

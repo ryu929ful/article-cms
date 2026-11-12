@@ -11,7 +11,7 @@ const useArticleList = () => {
             try{
                 console.log("記事一覧API取得開始")
                 setA_load(true)
-                const response = await fetch("http://localhost:2003/articles")
+                const response = await fetch("https://news-studio-api.onrender.com/articles")
                 await new Promise((resolve) => setTimeout(resolve,2000))
                 if(!response.ok){
                     throw new Error("記事一覧を取得できませんでした")
