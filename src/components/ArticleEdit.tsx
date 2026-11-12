@@ -1,6 +1,7 @@
 import { useSearchParams } from 'next/navigation'
 import ArticleCreate from './ArticleCreate'
 import useArticleList from '../hooks/useArticleList'
+import { ArticleFormValues } from '../validation/ArticleSchema'
 
 const ArticleEdit = () => {
     const param = useSearchParams()
@@ -11,6 +12,12 @@ const ArticleEdit = () => {
         return item.id === id
     })
     if(!editTarget) return
+    const status = editTarget.status
+    const valiadStatus:ArticleFormValues["status"] = 
+    status === "draft" ||
+    status === "review" || 
+    status === "published" ? status : "draft"
+    if(!editTarget) return
     const editFormValues = {
         title: editTarget.title,
         slug: editTarget.slug,
@@ -18,7 +25,7 @@ const ArticleEdit = () => {
         content: editTarget.content,
         categoryCode: editTarget.categoryCode,
         tagCodes: editTarget.tagCodes,
-        status: editTarget.status,
+        status: valiadStatus,
         author: editTarget.author,
         publishAt:editTarget.publishAt,
         thumbnailUrl: editTarget.thumbnailUrl
